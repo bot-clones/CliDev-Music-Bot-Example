@@ -17,8 +17,8 @@
   5. Then, turn the bot on by typing this in the console: `$ node .`
   
 # Contact Us
- [Discord](https://clientdev.glitch.me/discord)
+ [Discord](https://clidev.my.id/discord)
  
 # Support Us
- [Saweria](https://clientdev.glitch.me/donate/saweria)
- [Trakteer](https://clientdev.glitch.me/donate/trakteer)
+ [Saweria](https://clidev.my.id/donate/saweria)
+ [Trakteer](https://clidev.my.id/donate/trakteer)
