@@ -4,7 +4,7 @@
   Made with ♥ by Client Developer staff: 
   - Staff No.1 -> rayhantech
   - Staff No.2 -> rnggadosen._
-  - Staff No.6 -> Med
+  - Staff No.5 -> Med
   
   Contributors:
   - @everyone for supporting Client Developer
