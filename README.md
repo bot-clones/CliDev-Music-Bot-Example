@@ -1,6 +1,8 @@
 # Music Bot Example
   **A Music Discord Bot example written in javascript using discord.js**
   
+  ![Help command](https://i.imgur.com/Ye4s3mI.png)
+  
   Made with ♥ by Client Developer staff: 
   - Staff No.1 -> rayhantech
   - Staff No.2 -> rnggadosen._
